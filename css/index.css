@@ -1,0 +1,32 @@
+body 
+
+{background-color: #f1f1f1;}
+h1 {
+  color:#000000; 
+  text-align: center;
+
+}
+Label1 {
+  color:#000000;
+}
+h5{color:#000000;
+  text-align: center;
+  border-style: double;
+background-color: #f3b516 
+}
+
+ul.a {
+  list-style-type: square;
+  color:#000000;
+  text-align: left;
+}
+ol.c {
+  list-style-type: upper-roman;
+  color:#000000;
+  text-align: left;
+}
+
+
+
+
+
